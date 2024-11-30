@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android-MUI-Design</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="Password" />
+    <string name="loginBtnStr">Login</string>
+    <string name="not_yet_registered_signup_now">Not Yet registered? Signup Now</string>
 </resources>
